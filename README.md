@@ -1,2 +1,10 @@
-# GigFlorida
-GigFlorida Readme.md in MarkDown
+---
+description: Magazine Project
+---
+
+# GigFlorida Initial Page
+
+### Table of Contents
+
+
+
