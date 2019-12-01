@@ -2,7 +2,7 @@
 description: Magazine Project
 ---
 
-# GigFlorida Initial Page
+# GigFlorida Welcome Page
 
 ### Table of Contents
 

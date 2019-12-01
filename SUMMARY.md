@@ -1,4 +1,5 @@
 # Table of contents
 
-* [GigFlorida Initial Page](README.md)
+* [GigFlorida Welcome Page](README.md)
+* [GigFlorida Monitization](gigflorida-monitization.md)
 
