@@ -1,0 +1,12 @@
+Software quality
+
+In the context of software engineering, software quality refers to two related but distinct notions:
+
+Software functional quality reflects how well it complies with or conforms to a given design, 
+based on functional requirements or specifications. That attribute can also be described as the 
+fitness for purpose of a piece of software or how it compares to competitors in the marketplace 
+as a worthwhile product.[1] It is the degree to which the correct software was produced.
+
+Software structural quality refers to how it meets non-functional requirements that support the 
+delivery of the functional requirements, such as robustness or maintainability. It has a lot 
+more to do with the degree to which the software works as needed.
