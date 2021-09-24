@@ -19,14 +19,14 @@ marketing injected to the GigFlorida Micro - Small Business Packages \(B2C, B2B\
 Charge for Network Membership Levels   
 Users: 0-500, 500-1000 hourly, change prices according to user volume and network pipeline saturation  
   
-FREE/MIUM PLAN LEVEL - OPEN SOURCE  
+INDIE FREE/MIUM PLAN LEVEL - OPEN SOURCE  
 AUTHENTICATED GENERAL PUBLIC ACCESS  
 $0.00 \(to generate $1.00 Daily Value in click/sales\)  
 $0.00 \(to generate $12.00 Monthly Value in click/sales\)  
 MUST SETUP FOR USERS AND ADMIN  
 ...what do sites do for $0.00-$20.00  
 Free-mium, Do It Yourself Open Source Community Style  
-33.6 Kbps \(56Kbps the fastest "Dial-up Speed"\) kbps  
+33.6 Kbps \(56Kbps the fastest "Dial-up Speed"\) kbps, WE'LL SEE  
 ...\(not unlimited, but endless\) \(Bandwidth Cautious\) experience   
   
 WOODWINDS & BRASS LEVEL  
@@ -44,7 +44,7 @@ MUST SETUP FOR USERS AND ADMIN
 ...what do sites provide for this price $50.00-$100.00  
 Silver & Bronze,   
   
-GOLD   
+GOLD RECORD STUDIO LEVEL
 $100.00 \($99.99\) Monthly  
 $1200.00 \($1199.99\) Annually  
 MUST SETUP FOR USERS AND ADMIN  
@@ -74,7 +74,8 @@ MUST SETUP FOR USERS AND ADMIN
 ...full custom ERP & CRM access,   
 ...advanced analytics,   
 ...Tutoring Lessons from the Extra-Net- LMS,   
-...figure out instructor wage, ---setup SCHOOL accounting???
+...figure out instructor wage,
+...setup SCHOOL accounting???
 
 
 
