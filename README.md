@@ -1,8 +1,8 @@
 ---
-description: GigFlorida Network for Musicians
+GigFlorida Network: for Touring Musicians
 ---
 
-# GigFlorida Welcome Page
+# GigFlorida Network Welcome Page
 
 Table of Contents
 
