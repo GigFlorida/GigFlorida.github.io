@@ -1,5 +1,5 @@
 ---
-description: Magazine Project
+description: GigFlorida Network for Musicians
 ---
 
 # GigFlorida Welcome Page
