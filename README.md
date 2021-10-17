@@ -1,10 +1,8 @@
+# [GigFlorida.github.io](GigFlorida.github.io)
 # GigFlorida Network Welcome Page
-
 ### Table of Contents (TOC)
-
 ###Social Network:
 - Dupal 9 with all the upgrades
-
 ### Secure Site and Internet Search:
 - Private Crawler Info (DuckDuckGo)
 - Apache Solr with all the upgrades
