@@ -1,24 +1,41 @@
----
-GigFlorida Network: for Touring Musicians
----
-
 # GigFlorida Network Welcome Page
 
-Table of Contents
+### Table of Contents (TOC)
 
-We need a soc-web Drupal has been fine
+###Social Network:
+- Dupal 9 with all the upgrades
 
-we need secure search
+### Secure Site and Internet Search:
+- Private Crawler Info (DuckDuckGo)
+- Apache Solr with all the upgrades
+- Apache Lucene with all the upgrades
 
-We need mail
+### EMail network, 
+- Apache James ...Or Best (Open Source) Offering
+- to send for network verification and reporting, 
+- and receive, for page updates
 
-We need news like AP news, and many local others
+### News Aggregation into superdesk 
+- AP news, 
+- Network News
+- outrageous news, 
+- Nasa and Space news,
+- technology News, 
+- Travel news
+- Florida local news 
+- and Every Local Other, onto their page only
 
-We need: 
+### We will need:
+- group Pages for Bands
+- forum Pages for 
+- Pages for users 
+- Pages for users pages (businesses)
 
-groups and forums
 
-Pages for users / businesses
 
+
+
+Store for merch, or space to program or embed
 ticket sales
 
+# GigFlorida Network: for Touring Musicians
